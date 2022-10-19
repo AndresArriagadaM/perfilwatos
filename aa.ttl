@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 @base <https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl> .
-=======
-@base <http://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl> .
->>>>>>> 8eb8e08cea76bdef79dec07c1435a6193d90a365
 
 @prefix ah: <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
