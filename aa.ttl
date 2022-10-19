@@ -32,6 +32,6 @@
    social:likesMovie dbr:TheLordOfTheRings:TheTrilogy , dbr:TheHobbit:TheTrilogy , dbr:TheAvengers , dbr:TheAvengers:InfinityWar ;
    social:hasSpiritAnimal dbr:Tiger ;
    social:hasFavouritePlatonicSolid dbr:Sphere ;
-   foaf:myersBriggs "INTP" .#en proceso
-   foaf:based_near "The_Earth"
-   foaf:current_proyect "Creation of a game: Shoot x Move"
+   foaf:myersBriggs "INTP";
+   foaf:nickname "El_Pasta";
+   foaf:current_proyect "Creation of a game: Shoot x Move".
