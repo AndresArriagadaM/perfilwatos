@@ -24,6 +24,7 @@
    foaf:givenName "Andres" ;
    foaf:familyName "Arriagada" ;
    foaf:age 23 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
+   foaf:homepage <https://www.linkedin.com/in/andr%C3%A9s-arriagada-862240252/>
    foaf:img <https://ucampus.uchile.cl/d/r/usuario/c1/c1d983405e5a6173a3d6e76774439e42/perfil/9dafe4a1ae2cc987325b4882bc6dc101_200.jpg> ;
    foaf:knows <https://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#JL> ;
    foaf:interest dbr:Semantic_Web , dbr:Big_data , dbr:Hurling ; 
