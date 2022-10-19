@@ -13,7 +13,7 @@
 
 <> a foaf:Document ;
    dc:date "2022-10-19"^^xsd:date ;
-   dc:title "Aidan's FOAF Profile"@en ;
+   dc:title "Andres's FOAF Profile"@en ;
    foaf:primaryTopic <#aa> ;
    dc:creator <#aa> .
 
