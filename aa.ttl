@@ -33,5 +33,5 @@
    social:hasSpiritAnimal dbr:Tiger ;
    social:hasFavouritePlatonicSolid dbr:Sphere ;
    foaf:myersBriggs "INTP" .#en proceso
-   foaf:nickname "El_Pasta"
+   foaf:based_near "The_Earth"
    foaf:current_proyect "Creation of a game: Shoot x Move"
