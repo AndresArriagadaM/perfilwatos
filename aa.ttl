@@ -29,7 +29,7 @@
    foaf:knows <https://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#JL> , <https://raw.githubusercontent.com/EricContrerasP/PerfilWatos/main/ec.ttl#EC> , <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> , <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#JS> ;
    foaf:interest dbr:Semantic_Web , dbr:Universe_of_The_Legend_of_Zelda , dbr:Super_Mario_Bros ; 
    social:hasEnemy <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#JL> , <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
-   social:likesMovie dbr:TheLordOfTheRings:TheTrilogy , dbr:TheHobbit:TheTrilogy , dbr:TheAvengers , dbr:TheAvengers:InfinityWar ;
+   social:likesMovie dbr:The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring , dbr:The_Lord_of_the_Rings:_The_Two_Towers , dbr:The_Lord_of_the_Rings:_The_Return_of_the_King     , dbr:Avengers:_Infinity_War ;
    social:hasSpiritAnimal dbr:Tiger ;
    social:hasFavouritePlatonicSolid dbr:Sphere ;
    foaf:myersBriggs "INTP";
