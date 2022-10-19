@@ -1,4 +1,4 @@
-@base <http://github.com/Pasta212/perfilwatos/blob/main/aa.ttl> .
+@base <https://github.com/Pasta212/perfilwatos/blob/main/aa.ttl> .
 
 @prefix ah: <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
