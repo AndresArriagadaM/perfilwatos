@@ -27,7 +27,7 @@
    foaf:homepage <https://www.linkedin.com/in/andr%C3%A9s-arriagada-862240252/> ;
    foaf:img <https://ucampus.uchile.cl/d/r/usuario/c1/c1d983405e5a6173a3d6e76774439e42/perfil/9dafe4a1ae2cc987325b4882bc6dc101_200.jpg> ;
    foaf:knows <https://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#JL> , <https://raw.githubusercontent.com/EricContrerasP/PerfilWatos/main/ec.ttl#EC> , <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> , <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#JS> ;
-   foaf:interest dbr:Semantic_Web , dbr:Big_data , dbr:Hurling ; 
+   foaf:interest dbr:Semantic_Web , dbr:Universe_of_The_Legend_of_Zelda , dbr:Hurling ; 
    social:hasEnemy <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#JL> , <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
    social:likesMovie dbr:TheLordOfTheRings:TheTrilogy , dbr:TheHobbit:TheTrilogy , dbr:TheAvengers , dbr:TheAvengers:InfinityWar ;
    social:hasSpiritAnimal dbr:Tiger ;
